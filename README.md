@@ -24,7 +24,6 @@ const Abdullah = {
   role:       "CS Undergrad & Full-Stack Developer",
   currently:  ["Multi-agent-platform","Vs-code-agent","JavaScript Framework"],
   stack:      ["TypeScript", "Python", "Next.js", "FastAPI", "LangGraph", "Three.js"],
-  shipped:    "4 projects in the last 1 months",
   philosophy: "Ship → learn → ship better",
   contact:    "https://www.linkedin.com/in/abdullah-ashfaq-430523436/",
 };
