@@ -9,8 +9,8 @@
 </p>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=realsameek-collab&label=PROFILE+VIEWS&color=25C3E6&style=flat-square" /> 
-  <img src="https://img.shields.io/github/followers/realsameek-collab?label=FOLLOWERS&style=flat-square&color=25C3E6" /> 
+  <img src="https://komarev.com/ghpvc/?username=AbdullahAshfaq77&label=PROFILE+VIEWS&color=25C3E6&style=flat-square" /> 
+  <img src="https://img.shields.io/github/followers/AbdullahAshfaq77?label=FOLLOWERS&style=flat-square&color=25C3E6" /> 
   <img src="https://img.shields.io/badge/STATUS-BUILDING%20THINGS-25C3E6?style=flat-square" /> 
   <img src="https://img.shields.io/badge/FOCUS-AI%20%2B%20WEB-25C3E6?style=flat-square" /> 
 
@@ -39,7 +39,7 @@ I build things that sit at the intersection of **AI, Web, and Full-Stack Develop
 
 # 🚀 Featured Projects
 
-### 🤖 [AmeekAI](https://github.com/realsameek-collab/ameek-ai)
+### 🤖 [AmeekAI](https://github.com/AbdullahAshfaq77/ameek-ai)
 
 **AI-powered multi-agent platform** — a full-stack AI application designed to bring multiple intelligent agents and AI capabilities together into a unified workspace.
 
@@ -79,7 +79,7 @@ I build things that sit at the intersection of **AI, Web, and Full-Stack Develop
 
 
 ---
-📁 Explore all ![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Frealsameek-collab&label=&query=%24.public_repos&suffix=+repos&color=25C3E6&style=flat-square) → [github.com/realsameek-collab/repositories](https://github.com/realsameek-collab?tab=repositories)
+📁 Explore all ![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAbdullahAshfaq77&label=&query=%24.public_repos&suffix=+repos&color=25C3E6&style=flat-square) → [github.com/AbdullahAshfaq77/repositories](https://github.com/AbdullahAshfaq77?tab=repositories)
 
 ---
 
@@ -142,20 +142,20 @@ I build things that sit at the intersection of **AI, Web, and Full-Stack Develop
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/realsameek-collab">
-    <img height="165" src="https://YOUR-STATS-URL.vercel.app/api?username=realsameek-collab&show_icons=true&hide_border=true&bg_color=0D1117&title_color=25C3E6&icon_color=25C3E6&text_color=c9d1d9" alt="GitHub Stats" />
+  <a href="https://github.com/AbdullahAshfaq77">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=AbdullahAshfaq77&show_icons=true&hide_border=true&bg_color=0D1117&title_color=25C3E6&icon_color=25C3E6&text_color=c9d1d9" alt="GitHub Stats" />
   </a>
-  <a href="https://github.com/realsameek-collab">
-    <img height="165" src="https://YOUR-STATS-URL.vercel.app/api/top-langs/?username=realsameek-collab&layout=compact&hide_border=true&bg_color=0D1117&title_color=25C3E6&text_color=c9d1d9" alt="Top Languages" />
+  <a href="https://github.com/AbdullahAshfaq77">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahAshfaq77&layout=compact&hide_border=true&bg_color=0D1117&title_color=25C3E6&text_color=c9d1d9" alt="Top Languages" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=realsameek-collab&hide_border=true&background=0D1117&ring=38BDF8&fire=A855F7&currStreakNum=A855F7&sideNums=60A5FA&currStreakLabel=FFFFFF&sideLabels=60A5FA&dates=4ADE80" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=AbdullahAshfaq77&hide_border=true&background=0D1117&ring=38BDF8&fire=A855F7&currStreakNum=A855F7&sideNums=60A5FA&currStreakLabel=FFFFFF&sideLabels=60A5FA&dates=4ADE80" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://YOUR-ACTIVITY-URL.vercel.app/graph?username=realsameek-collab&bg_color=0D1117&color=25C3E6&line=25C3E6&point=ffffff&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdullahAshfaq77&bg_color=0D1117&color=25C3E6&line=25C3E6&point=ffffff&hide_border=true" alt="Activity Graph" />
 </p>
 
 
@@ -172,7 +172,7 @@ I build things that sit at the intersection of **AI, Web, and Full-Stack Develop
   <a href="https://abdullah-ashfaq.vercel.app/" target="_blank"> 
     <img src="https://img.shields.io/badge/▲%20PORTFOLIO-12B8D8?style=for-the-badge&logoColor=white" alt="Portfolio"/> 
   </a> 
-  <a href="https://github.com/realsameek-collab" target="_blank"> 
+  <a href="https://github.com/AbdullahAshfaq77" target="_blank"> 
     <img src="https://img.shields.io/badge/GITHUB-171717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> 
   </a> 
   <a href="mailto:ameek263@gmail.com"> 
