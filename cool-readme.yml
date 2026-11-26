@@ -1,17 +1,4 @@
-# Settings: https://github.com/pedrocatalao/github-cool-readme#settings
-
-user: AbdullahAshfaq77
-
 show: [about, languages, summary, contributions]
-
-count:
-  private: true
-  orgs: true
-
-look:
-  style: classic
-  color: github
-  background: none
 
 cards:
   about:
