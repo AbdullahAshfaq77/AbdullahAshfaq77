@@ -1,192 +1,70 @@
+<h1 align="center">Abdullah Ashfaq</h1><p align="center">
+  <strong>AI Developer · Full-Stack Engineer · Independent Builder</strong>
+</p><p align="center">
+  I build software at the intersection of intelligent systems and practical applications.
+  My interests include agentic AI, reinforcement learning, computer vision, and full-stack development.
+</p><p align="center">
+  <a href="https://abdullah-ashfaq.vercel.app/">Portfolio</a>
+  ·
+  <a href="https://www.linkedin.com/in/abdullah-ashfaq-430523436/">LinkedIn</a>
+  ·
+  <a href="mailto:ameek263@gmail.com">Email</a>
+</p>About
+I'm an independent developer and a Punjab University Lahore graduate (2022–2026). I enjoy taking ideas from research and experimentation to working software — especially where AI meets useful products.
+- Building: AI-powered applications and developer tools
+- Exploring: Agentic AI, multi-agent systems, reinforcement learning, and computer vision
+- Developing with: TypeScript, JavaScript, Python, React, Next.js, and Node.js
+- Open to: Engineering opportunities, freelance projects, and collaborative work
+Selected work
+A few projects and experiments that represent the areas I'm working in. Some are ongoing, so their scope and implementation may evolve.
+AmeekAI
+An AI application exploring multi-agent workflows and a unified workspace for working with AI.
+
+JavaScript · React · Node.js · MongoDB · Firebase · AI
+Antral
+An AI-security-focused project exploring how multiple specialized agents can work together.
+
+AI Security · Multi-Agent Systems
+Ameek-VS
+An AI-assisted developer-tool project with separate frontend and backend components.
+
+JavaScript · Node.js · AI
+Tekken 6 RL
+An ongoing reinforcement-learning and computer-vision experiment focused on building an agent for Tekken 6. The autonomous gameplay system is still under development.
+
+Python · OpenCV · PyTorch · Reinforcement Learning
+NiroUI
+An in-development React component-library project focused on reusable interface components.
+
+React · JavaScript · UI Components
+Technical toolkit
+Languages
+
+TypeScript JavaScript Python HTML CSS
+
+Frontend
+
+React Next.js Vite Tailwind CSS Framer Motion
+
+Backend & data
+
+Node.js Express FastAPI MongoDB Firebase Redis
+
+AI & intelligent systems
+
+LLM Applications Agentic AI Multi-Agent Workflows Reinforcement Learning Computer Vision OpenCV
+
+Tools
+
+Git GitHub Docker Postman VS Code Vercel
+Education
+Punjab University Lahore
+Graduate · 2022–2026
+Find me online
+- GitHub: @AbdullahAshfaq77
+- LinkedIn: Abdullah Ashfaq
+- Portfolio: abdullah-ashfaq.vercel.app
+- Email: ameek263@gmail.com
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3949AB,100:6A3FB5&height=190&section=header&text=Abdullah&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Building+at+the+intersection+of+AI,+Web+and+Design&descAlignY=55&descSize=18&descAlign=50" width="100%" />
-</p>
-
-<p align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=25C3E6&center=true&vCenter=true&width=610&lines=Agentic+AI+%E2%80%A2+LangGraph+%E2%80%A2+FastAPI+%E2%80%A2+Next.js;AWS+Machine+Learning+-+Associate+%E2%80%A2+UI%2FUX+with+Figma)](https://git.io/typing-svg)
-
-</p>
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=AbdullahAshfaq77&label=PROFILE+VIEWS&color=25C3E6&style=flat-square" /> 
-  <img src="https://img.shields.io/github/followers/AbdullahAshfaq77?label=FOLLOWERS&style=flat-square&color=25C3E6" /> 
-  <img src="https://img.shields.io/badge/STATUS-BUILDING%20THINGS-25C3E6?style=flat-square" /> 
-  <img src="https://img.shields.io/badge/FOCUS-AI%20%2B%20WEB-25C3E6?style=flat-square" /> 
-
-
-  
-## 👨‍💻 About Me
-
-```js
-const Abdullah = {
-  name:       "Abdullah",
-  role:       "CS Undergrad & Full-Stack Developer",
-  currently:  ["Multi-agent-platform","Vs-code-agent","JavaScript Framework"],
-  stack:      ["TypeScript", "Python", "Next.js", "FastAPI", "LangGraph", "Three.js"],
-  philosophy: "Ship → learn → ship better",
-  contact:    "https://www.linkedin.com/in/abdullah-ashfaq-430523436/",
-};
-```
-I build things that sit at the intersection of **AI, Web, and Full-Stack Development**. Whether it's a multi-agent AI platform coordinating intelligent workspaces, a scalable backend architecture, or a polished user experience built from scratch — I'm happiest when an idea ships.
-
-* 🔭 Currently building **AmeekAI**, an AI-powered multi-agent workspace platform
-* 🤖 Going deep on **Agentic AI, LLMs, RAG, and multi-agent architectures**
-* 💻 Full-stack developer — **React → Node.js → production**
-* 💬 Ask me about **full-stack development, AI applications, React, or AmeekAI**
-* 📫 Reach me at [LinkedIn](https://linkedin.com) or drop a star ⭐ on a repo
-* ⚡ Fun fact: I like building the idea first and figuring out how to make it better along the way.
-
-# 🚀 Featured Projects
-
-### 🤖 [AmeekAI](https://github.com/AbdullahAshfaq77/ameek-ai)
-
-**AI-powered multi-agent platform** — a full-stack AI application designed to bring multiple intelligent agents and AI capabilities together into a unified workspace.
-
-**Highlights**
-
-* 🤖 Multi-agent AI architecture
-* 💬 Intelligent conversational AI
-* 🔐 Firebase authentication & user management
-* 📁 Project-based AI workspace
-* 🧠 Specialized AI agent routing
-* ⚡ Modern React-based interface
-* 🗄️ MongoDB-backed project and user data
-* 🔄 Backend gateway with independent AI services
-
-`React` `JavaScript` `Node.js` `Express` `MongoDB` `Firebase` `LLMs` `AI Agents`
-
----
-
-### 🧠 [VS Code AI Agent](YOUR-VS-CODE-AGENT-GITHUB-LINK)
-
-**AI-powered developer agent for VS Code** — an intelligent coding assistant designed to help developers work directly inside their development environment.
-
-**Highlights**
-
-* 🤖 AI-powered coding assistance
-* 💻 Developer-focused VS Code workflow
-* 🧠 LLM-powered reasoning and code generation
-* ⚡ AI-assisted development tasks
-* 🔧 Developer productivity tooling
-* 🚀 Built to make coding workflows faster and smarter
-
-`JavaScript` `Node.js` `VS Code` `AI` `LLMs` `Agentic AI`
-
-
-
-
-
-
----
-📁 Explore all ![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAbdullahAshfaq77&label=&query=%24.public_repos&suffix=+repos&color=25C3E6&style=flat-square) → [github.com/AbdullahAshfaq77/repositories](https://github.com/AbdullahAshfaq77?tab=repositories)
-
----
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### 💻 Languages
-
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-### 🎨 Frontend
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Framer_Motion-EF008C?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
-</p>
-
-### ⚙️ Backend & AI
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
-</p>
-
-### 🗄️ Databases & Infrastructure
-
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</p>
-
-### 🧰 Tools & Platforms
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-</p>
-
-</div>
-
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/AbdullahAshfaq77">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=AbdullahAshfaq77&show_icons=true&hide_border=true&bg_color=0D1117&title_color=25C3E6&icon_color=25C3E6&text_color=c9d1d9" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/AbdullahAshfaq77">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahAshfaq77&layout=compact&hide_border=true&bg_color=0D1117&title_color=25C3E6&text_color=c9d1d9" alt="Top Languages" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AbdullahAshfaq77&hide_border=true&background=0D1117&ring=38BDF8&fire=A855F7&currStreakNum=A855F7&sideNums=60A5FA&currStreakLabel=FFFFFF&sideLabels=60A5FA&dates=4ADE80" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdullahAshfaq77&bg_color=0D1117&color=25C3E6&line=25C3E6&point=ffffff&hide_border=true" alt="Activity Graph" />
-</p>
-
-
-
-
-
----
-
-<h2 align="left">🌐 Connect With Me</h2> 
-<p align="center"> 
-  <a href="https://www.linkedin.com/in/abdullah-ashfaq-430523436/" target="_blank"> 
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> 
-  </a> 
-  <a href="https://abdullah-ashfaq.vercel.app/" target="_blank"> 
-    <img src="https://img.shields.io/badge/▲%20PORTFOLIO-12B8D8?style=for-the-badge&logoColor=white" alt="Portfolio"/> 
-  </a> 
-  <a href="https://github.com/AbdullahAshfaq77" target="_blank"> 
-    <img src="https://img.shields.io/badge/GITHUB-171717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> 
-  </a> 
-  <a href="mailto:ameek263@gmail.com"> 
-    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> 
-  </a> 
-</p> 
-
---- 
-
-<p align="center"> 
-  ### 💡 <i>"The best way to predict the future is to ship it."</i> <br> 
-  <sub> Thanks for stopping by — if any project caught your eye, a ⭐ goes a long way 🚀 </sub> 
-</p> 
-<br> 
-<p align="center"> 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=12,18&section=footer" width="100%"/> 
+  <sub>Build with curiosity. Improve through iteration. Ship with purpose.</sub>
 </p>
