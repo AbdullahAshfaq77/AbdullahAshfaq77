@@ -1,0 +1,25 @@
+# Settings: https://github.com/pedrocatalao/github-cool-readme#settings
+user: AbdullahAshfaq77
+show: [summary, languages, contributions, weekly, repos, streaks, about]
+count:
+  private: true
+  orgs: true
+look:
+  style: classic
+  color: github
+  background: none
+cards:
+  about:
+    headline: "Hi, I'm *Abdullah*"
+    lines:
+      - "Building intelligent systems and software that solves real problems."
+      - "AI Security & Multi-Agent Systems"
+      - "Reinforcement Learning & Computer Vision"
+      - "Full-Stack Development"
+      - "Punjab University Lahore | Graduate 2026"
+      - "Open to freelance projects and collaboration"
+    facts:
+      "Location": "Pakistan"
+      "Education": "Punjab University Lahore"
+      "Graduation": "2022–2026"
+      "Focus": "AI Security & Multi-Agent Systems"
