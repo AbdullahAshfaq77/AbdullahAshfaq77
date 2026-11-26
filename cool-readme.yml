@@ -1,11 +1,32 @@
-show: [about, languages, summary, contributions]
+user: AbdullahAshfaq77
+
+show: [about, languages, summary, weekly]
+
+count:
+  private: true
+  orgs: true
+
+look:
+  style: classic
+  color: github
+  animations: true
+  background: none
+  border: false
 
 cards:
   about:
     headline: "Hi, I'm *Abdullah*"
     lines:
       - "Independent developer building intelligent systems and practical software."
-      - "Focused on AI Security, Multi-Agent Systems, and Reinforcement Learning."
-      - "Building full-stack applications and automation."
+      - "Focused on AI Security and Multi-Agent Systems."
+      - "Exploring Reinforcement Learning, Computer Vision and Full-Stack Development."
     facts:
       "Based in": "Pakistan"
+  languages:
+    title: "Most Used Languages"
+    count: 6
+  summary:
+    title: null
+    ring: percent
+  weekly:
+    title: "Weekly Activity"
